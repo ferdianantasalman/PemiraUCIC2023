@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ProdiController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +15,20 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+Route::get('/kandidat', function () {
+    return view('kandidat');
+});
+Route::get('/visi-misi', function () {
+    return view('visi-misi');
+});
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/dashboard', function () {
+    return view('admin.home-admin');
+});
+
+Route::resource('prodi', ProdiController::class);
