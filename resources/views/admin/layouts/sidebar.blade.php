@@ -12,7 +12,6 @@
 
   <ul class="menu-inner py-1">
     <!-- Menu -->
-    <!-- Test juga ya -->
     <li class="menu-header small text-uppercase"><span class="menu-header-text">Menu Utama</span></li>
 
     <!-- Dashboard -->
