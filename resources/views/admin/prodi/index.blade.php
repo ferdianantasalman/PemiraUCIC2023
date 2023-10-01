@@ -44,7 +44,7 @@
                   <form action="{{ route('prodi.destroy',$prd->id) }}" method="POST">
                     @csrf
                     @method('DELETE')
-                    <button type="submit" class="dropdown-item" onclick="javascript: return confirm('Apakah anda yakin ingin menghapus data ini?')">
+                    <button type="submit" class="dropdown-item" onclick="javascript: return confirm('Apakah anda yakin ingin menghapus data ini ?')">
                       <i class="bx bx-trash me-1"></i> 
                       Delete
                     </button>
