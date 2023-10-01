@@ -43,6 +43,26 @@
       </ul>
     </li>
 
+    <!-- Dosen & Staff -->
+    <li class="menu-item {{ Request::is('mahasiswa*') ? 'active' : '' }}">
+      <a href="javascript:void(0)" class="menu-link menu-toggle">
+        <i class="menu-icon tf-icons bx bxs-graduation"></i>
+        <div data-i18n="User interface">Dosen & Staff</div>
+      </a>
+      <ul class="menu-sub">
+        <li class="menu-item">
+          <a href="ui-accordion.html" class="menu-link">
+            <div data-i18n="Accordion">Daftar</div>
+          </a>
+        </li>
+        <li class="menu-item">
+          <a href="ui-alerts.html" class="menu-link">
+            <div data-i18n="Alerts">Tambah</div>
+          </a>
+        </li>
+      </ul>
+    </li>
+
     <!-- Mahasiswa -->
     <li class="menu-item {{ Request::is('mahasiswa*') ? 'active' : '' }}">
       <a href="javascript:void(0)" class="menu-link menu-toggle">
