@@ -26,7 +26,7 @@
         <tbody>
           @foreach ($prodi as $prd)
           <tr>
-            <td>{{ $loop->index + 1 }}</td>
+            <td>{{ $loop->index + 1 }}. </td>
             <td>{{ $prd->kode }}</td>
             <td>{{ $prd->nama }}</td>
             <td>{{ $prd->kaprodi }}</td>
@@ -36,14 +36,19 @@
                   <i class="bx bx-dots-vertical-rounded"></i>
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="javascript:void(0);">
+                  <a class="dropdown-item" href="{{ route('prodi.edit', $prd->id) }}">
                     <i class="bx bx-edit-alt me-1"></i> 
                     Edit
                   </a>
-                  <a class="dropdown-item" href="javascript:void(0);">
-                    <i class="bx bx-trash me-1"></i> 
-                    Delete
-                  </a>
+
+                  <form action="{{ route('prodi.destroy',$prd->id) }}" method="POST">
+                    @csrf
+                    @method('DELETE')
+                    <button type="submit" class="dropdown-item" onclick="javascript: return confirm('Apakah anda yakin ingin menghapus data ini?')">
+                      <i class="bx bx-trash me-1"></i> 
+                      Delete
+                    </button>
+                  </form>
                 </div>
               </div>
             </td>
@@ -52,19 +57,6 @@
         </tbody>
       </table>
     </div>
-
-    @if ($message = Session::get('success'))
-      <div class="bs-toast toast toast-placement-ex m-2 fade bg-success bottom-0 end-0 show" role="alert" aria-live="assertive" aria-atomic="true">
-        <div class="toast-header">
-          <i class='bx bx-bell me-2'></i>
-          <div class="me-auto fw-medium">Notifications</div>
-          <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
-        </div>
-        <div class="toast-body">
-          {{ $message }}
-        </div>
-      </div>
-    @endif
     
   </div>
 @endsection
