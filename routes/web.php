@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProdiController;
+use App\Http\Controllers\CandidateProfilesController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -32,3 +33,4 @@ Route::get('/dashboard', function () {
 });
 
 Route::resource('prodi', ProdiController::class);
+Route::resource('kandidat-admin', CandidateProfilesController::class);

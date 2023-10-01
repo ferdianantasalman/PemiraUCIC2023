@@ -89,14 +89,14 @@
         <div data-i18n="Extended UI">Kandidat</div>
       </a>
       <ul class="menu-sub">
-        <li class="menu-item">
-          <a href="extended-ui-perfect-scrollbar.html" class="menu-link">
-            <div data-i18n="Perfect Scrollbar">Daftar</div>
+      <li class="menu-item {{ Request::is('kandidat-admin') ? 'active' : '' }}">
+          <a href="/kandidat-admin" class="menu-link">
+            <div data-i18n="Accordion">Daftar</div>
           </a>
         </li>
-        <li class="menu-item">
-          <a href="extended-ui-text-divider.html" class="menu-link">
-            <div data-i18n="Text Divider">Tambah</div>
+        <li class="menu-item {{ Request::is('kandidat-admin/create') ? 'active' : '' }}">
+          <a href="{{ route('kandidat-admin.create') }}" class="menu-link">
+            <div data-i18n="Alerts">Tambah</div>
           </a>
         </li>
       </ul>
