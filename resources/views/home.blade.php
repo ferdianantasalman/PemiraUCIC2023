@@ -28,15 +28,15 @@
     </section>
     <!-- End Hero Section -->
 
-    <!-- Start Kandidat Section -->
+    <!-- Start Kandidat BKM Section -->
     <div class="feature section">
       <div class="container">
         <div class="row">
           <div class="col-12">
             <div class="section-title">
               <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
-              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon</h2>
-              <p class="wow fadeInUp" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci qui eum mollitia voluptate aspernatur inventore.</p>
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon BKM UCIC</h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 2 Paslon dari BKM UCIC</p>
             </div>
           </div>
         </div>
@@ -47,10 +47,10 @@
                 <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
               </div>
               <div class="tumb">
-                <img src="{{ asset('assets_landing/images/kandidat/kandidat.png') }}" alt="image" />
+                <img src="{{ asset('assets_landing/images/kandidat/bkm1.png') }}" alt="image" />
               </div>
-              <h4 class="text-title">Kinan & Galih</h4>
-              <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit."</p>
+              <h4 class="text-title">Yonatan & Primasari Dea A</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
               <div class="button-feature">
                 <a href="/visi-misi" class="button">
                   <?xml version="1.0" encoding="utf-8"?>
@@ -74,10 +74,10 @@
                 <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
               </div>
               <div class="tumb">
-                <img src="{{ asset('assets_landing/images/kandidat/kandidat.png') }}" alt="" />
+                <img src="{{ asset('assets_landing/images/kandidat/bkm2.jpg') }}" alt="" />
               </div>
-              <h4 class="text-title">Fia & Roy</h4>
-              <p>"Lorem ipsum, dolor sit amet consectetur adipisicing elit."</p>
+              <h4 class="text-title">Andika Adi P & Novita Putri</h4>
+              <p>"Pasangan Kandidat No 2"</p>
               <div class="button-feature">
                 <a href="/visi-misi" class="button">
                   <?xml version="1.0" encoding="utf-8"?>
@@ -98,7 +98,583 @@
         </div>
       </div>
     </div>
+    <!-- End Kandidat BKM Section -->
+
+     <!-- Start Kandidat HIMABIS Section -->
+     <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMABIS </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 1 Paslon dari HIMABIS</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himabis.jpg') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Siti Zahra & Aditya Firnanda</h4>
+              <p>"Kandidat Paslon HIMABIS"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- End Kandidat Section -->
+
+    <!-- Start Kandidat HIMADKV Section -->
+    <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMADKV </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 1 Paslon dari HIMADKV</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/dkv.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Prasthio Rizqi K & M Novigo A</h4>
+              <p>"Kandidat Paslon HIMADKV"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMADKV Section -->
+
+     <!-- Start Kandidat HIMAKA Section -->
+     <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMAKA </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 1 Paslon dari HIMAKA</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himaka.jpg') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Rohsaidhi Dwi A & Diyah Permoni S</h4>
+              <p>"Kandidat Paslon HIMAKA"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMAKA Section -->
+
+    <!-- Start Kandidat HIMAKU Section -->
+    <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMAKU </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 2 Paslon dari HIMAKU</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himaku1.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Baby Bernadetha P & Fanie R</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".4s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himaku2.png') }}" alt="" />
+              </div>
+              <h4 class="text-title">Imam & Safani</h4>
+              <p>"Pasangan Kandidat No 2"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                    c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                    c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                    c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMAKU Section -->
+
+    <!-- Start Kandidat HIMAMI Section -->
+    <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMAMI </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 2 Paslon dari HIMAMI</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himami1.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Fernando Alonso S & Aurell Farah N</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".4s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himami2.png') }}" alt="" />
+              </div>
+              <h4 class="text-title">M Ramdan F & M Andre</h4>
+              <p>"Pasangan Kandidat No 2"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                    c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                    c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                    c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMAMI Section -->
+
+     <!-- Start Kandidat HIMAJEMEN Section -->
+    <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMAJEMEN </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 3 Paslon dari HIMAJEMEN</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himajemen1.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Putri Nur Shafa K & Michael Hendrawan</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".4s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himajemen2.png') }}" alt="" />
+              </div>
+              <h4 class="text-title">Muhammad Jamaluddin</h4>
+              <p>"Pasangan Kandidat No 2"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                    c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                    c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                    c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no3.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himajemen3.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Deviya Novita & Adisty putri S</h4>
+              <p>"Pasangan Kandidat Nomor 3"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMAJEMEN Section -->
+
+      <!-- Start Kandidat HIMASI Section -->
+      <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMASI </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 3 Paslon dari HIMASI</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himasi1.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Shalom Christviona P & Alexander W</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".4s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himasi2.jpg') }}" alt="" />
+              </div>
+              <h4 class="text-title">Belfania Priandini & Zahrina Nurpuriani</h4>
+              <p>"Pasangan Kandidat No 2"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                    c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                    c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                    c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no3.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himasi3.png') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Eko Prasatya I & Sasha Alicia</h4>
+              <p>"Pasangan Kandidat Nomor 3"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMASI Section -->
+
+    <!-- Start Kandidat HIMATIF Section -->
+    <div class="feature section">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <!-- <h3 class="wow zoomIn" data-wow-delay=".2s">Why choose us</h3> -->
+              <h2 class="wow fadeInUp" data-wow-delay=".4s">Paslon HIMATIF </h2>
+              <p class="wow fadeInUp" data-wow-delay=".6s">Terdapat 3 Paslon dari HIMATIF</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no1.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himatif1.jpg') }}" alt="image" />
+              </div>
+              <h4 class="text-title">Mochamad Alvin F J & Faris Hasyim</h4>
+              <p>"Pasangan Kandidat Nomor 1"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".4s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no2.png') }}" alt="imagw" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himatif2.jpg') }}" alt="" />
+              </div>
+              <h4 class="text-title">Ade Oktaviano AR & Achmad Syaiful H</h4>
+              <p>"Pasangan Kandidat No 2"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                    c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                    c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                    c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-8 col-12 wow fadeInUp" data-wow-delay=".2s">
+            <div class="feature-box">
+              <div class="img-offset">
+                <img src="{{ asset('assets_landing/images/features/no3.png') }}" alt="image" />
+              </div>
+              <div class="tumb">
+                <img src="{{ asset('assets_landing/images/kandidat/himatif3.jpg') }}" alt="image" />
+              </div>
+              <h4 class="text-title">M Rayhan F & Farhan Pratama P</h4>
+              <p>"Pasangan Kandidat Nomor 3"</p>
+              <div class="button-feature">
+                <a href="/visi-misi" class="button">
+                  <?xml version="1.0" encoding="utf-8"?>
+                  <svg fill="#1C2033" width="52" class="icon-btn" height="52" version="1.1" id="lni_lni-briefcase" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background: new 0 0 64 64" xml:space="preserve">
+                    <path
+                      d="M56,13.2H44.8V7.7c0-2.9-2.4-5.3-5.3-5.3H24.4c-2.9,0-5.3,2.4-5.3,5.3v5.5H8c-3.4,0-6.3,2.8-6.3,6.3v35.8
+                      c0,3.4,2.8,6.3,6.3,6.3h48c3.4,0,6.3-2.8,6.3-6.3V19.5C62.2,16,59.4,13.2,56,13.2z M23.7,7.7C23.7,7.3,24,7,24.4,7h15.1
+                      c0.4,0,0.8,0.3,0.8,0.8v5.5H23.7V7.7z M57.7,55.3c0,1-0.8,1.8-1.8,1.8H8c-1,0-1.8-0.8-1.8-1.8V19.5c0-1,0.8-1.8,1.8-1.8h48
+                      c1,0,1.8,0.8,1.8,1.8V55.3z" />
+                  </svg>
+
+                  Visi & Misi
+                  <div class="arrow">›</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Kandidat HIMATIF Section -->
 
     <!-- Start Step Section -->
     <section class="start-process section">
